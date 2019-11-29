@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1850" started-at="2019-05-27T14:14:03Z" finished-at="2019-05-27T14:14:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1850" started-at="2019-05-27T14:14:03Z" finished-at="2019-05-27T14:14:05Z">
+      <class name="exceldataAPIS.TestA">
+        <test-method status="PASS" signature="testA(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:exceldataAPIS.TestA@146ba0ac]" name="testA" duration-ms="25" started-at="2019-05-27T14:14:04Z" data-provider="getData" finished-at="2019-05-27T14:14:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ravilella]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test1234]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[A3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[A4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="testA(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:exceldataAPIS.TestA@146ba0ac]" name="testA" duration-ms="10" started-at="2019-05-27T14:14:04Z" data-provider="getData" finished-at="2019-05-27T14:14:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[B1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[B2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[B3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[B4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="testA(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:exceldataAPIS.TestA@146ba0ac]" name="testA" duration-ms="3" started-at="2019-05-27T14:14:05Z" data-provider="getData" finished-at="2019-05-27T14:14:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[C2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- exceldataAPIS.TestA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
