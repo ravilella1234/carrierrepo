@@ -33,7 +33,6 @@
 	            <version>2.19.1</version>
 	            <configuration>
 	          	  <suiteXmlFiles>
-				  
 				     <suiteXmlFile>listernertestng.xml</suiteXmlFile>
 				  </suiteXmlFiles>	  
 	       	    </configuration>
