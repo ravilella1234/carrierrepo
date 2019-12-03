@@ -34,7 +34,7 @@
 	            <configuration>
 	          	  <suiteXmlFiles>
 				  
-				     <suiteXmlFile>testngbuild.xml</suiteXmlFile>
+				     <suiteXmlFile>listernertestng.xml</suiteXmlFile>
 				  </suiteXmlFiles>	  
 	       	    </configuration>
 			</plugin>
