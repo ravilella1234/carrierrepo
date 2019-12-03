@@ -33,6 +33,7 @@
 	            <version>2.19.1</version>
 	            <configuration>
 	          	  <suiteXmlFiles>
+				  
 				     <suiteXmlFile>testngbuild.xml</suiteXmlFile>
 				  </suiteXmlFiles>	  
 	       	    </configuration>
